@@ -1,6 +1,29 @@
-# 游戏规则
-国科大计算机学院2019年草地音乐节小游戏项目。规则如下：<br>
-1、若选手转发音乐节现场照片可以得到1次复活机会。<br>
-2、每次游戏三个问题，第一个问题必须为中科院有关问题，第二、三个问题可以自选某一类作答。<br>
-3、答对一题方可进入下一问题，选手有放弃权利。<br>
-4、一旦进入下一问题就视为放弃已得奖品。只要答对题就可得到参与奖，其他奖品根据选手得分颁发。不可重复得奖，取最好成绩颁奖。
+![Python](https://img.shields.io/badge/language-Python-blue) ![license](https://img.shields.io/badge/license-MIT-yellow)
+
+# SCST_2019_MusicFestival_Game
+
+The 2019 Grassland Music Festival Mini Game Project of the School of Computer Science and Technology, UCAS.
+
+The rule is as follow:
+
+1. If the contestant forwards the live photos of the music festival, they can get a chance to resurrect.
+2. There are three questions in each game. The first question must be related to the Chinese Academy of Sciences. The second and third questions can be answered in a certain category.
+3. Only answer one question correctly can enter the next question, and the contestant has the right to give up.
+4. Once you enter the next question, you will be deemed to have given up the prize. As long as you answer the correct questions, you will get the participation prize, and other prizes will be awarded based on the player's score. The award cannot be repeated, and the best result will be awarded.
+
+## Install
+```shell
+git clone https://github.com/DCOLIVERSUN/SCST_2019_MusicFestival_Game.git
+```
+
+## Usage
+```python
+python havefun.py
+```
+## Contributing
+
+PRs accepted.
+
+## License
+
+MIT © Qian Sun
